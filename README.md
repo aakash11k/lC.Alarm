@@ -1,1 +1,2 @@
-# lC.Alarm
+This is a simple low cost alarm done using two ic 555 timers and a ldr diode which are used to detect whether a refrigerator is open or not.
+All refrigerators have lights that gets turned on when opened and turns off when closed,by using suitable resistors and capacitors when the light falls on the diode for certain period of time the diode shots the timer and a buzzer starts to buzz indicating that the door has not been shut or has been open for too long.
